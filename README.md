@@ -1,6 +1,6 @@
 <!-- Laboratorio 2 -->
 
-# Laboratorio 2:
+# Laboratorio 2: Entrega Final
 
 <!-- PROJECT SHIELDS -->
 
