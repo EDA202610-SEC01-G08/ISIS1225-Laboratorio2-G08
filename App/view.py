@@ -113,7 +113,8 @@ def last_book(app):
     """
     Devuelve el último libro cargado en el conjunto de libros
     """
-    pass
+    last = logic.last_book(app)
+    return last
 
 
 # Se crea el controlador asociado a la vista
